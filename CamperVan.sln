@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamperVan", "CamperVan\CamperVan.csproj", "{8F62E2AC-8E5C-41BB-83CE-24DD618C5B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedSimulator", "EmbeddedSimulator\EmbeddedSimulator.csproj", "{82671F75-E1F1-4BD9-8640-7CBD0CCB7F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F62E2AC-8E5C-41BB-83CE-24DD618C5B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F62E2AC-8E5C-41BB-83CE-24DD618C5B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F62E2AC-8E5C-41BB-83CE-24DD618C5B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F62E2AC-8E5C-41BB-83CE-24DD618C5B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82671F75-E1F1-4BD9-8640-7CBD0CCB7F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82671F75-E1F1-4BD9-8640-7CBD0CCB7F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82671F75-E1F1-4BD9-8640-7CBD0CCB7F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82671F75-E1F1-4BD9-8640-7CBD0CCB7F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80297965-4E3A-4A1B-9B1F-6F3A0A59C625}
+	EndGlobalSection
+EndGlobal
